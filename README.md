@@ -45,6 +45,7 @@
 * _**Firstly i created job1 in jenkins and then configured it**_
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/64469896/90398489-273a7180-e0b7-11ea-9ee8-0848aacbeaa2.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/64469896/90398500-2bff2580-e0b7-11ea-9d77-80f6ca833a30.png)
 
 
 
