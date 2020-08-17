@@ -42,10 +42,15 @@
 
 >>> `JOB-1`. **Pull the Github repo automatically when some developers push repo to Github**.
 
-* _**Firstly i created job1 in jenkins and then configured it**_
+ **Firstly i created job1 in jenkins and then configured it**
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/64469896/90398489-273a7180-e0b7-11ea-9ee8-0848aacbeaa2.png)
 ![Screenshot (122)](https://user-images.githubusercontent.com/64469896/90398500-2bff2580-e0b7-11ea-9d77-80f6ca833a30.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/64469896/90398505-302b4300-e0b7-11ea-83ba-44891bb8d3b6.png)
+
+**After configuration of job1,i build it and here is console output**
+
+
 
 
 
