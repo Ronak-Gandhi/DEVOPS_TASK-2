@@ -16,4 +16,5 @@
 
 ### Step by Step Process as Follow:-
 
-* _**
+* _**First of all i created a container image that has jenkins installed using Dockerfile !
+
