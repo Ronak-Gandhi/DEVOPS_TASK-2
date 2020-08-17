@@ -20,6 +20,8 @@
 
 ![dockerfile](https://user-images.githubusercontent.com/64469896/90393857-2dc4eb00-e0af-11ea-8d80-054824194e3c.png)
 
-* _**After that ,i build that Dockerfile..
+* _**After that ,i build that Dockerfile using command <docker build -t jenkins:v1>..
+
+![build](https://user-images.githubusercontent.com/64469896/90394186-d1ae9680-e0af-11ea-9a21-8ce04050c78b.png)
 
 
