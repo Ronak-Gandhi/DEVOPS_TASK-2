@@ -24,12 +24,18 @@
 
 ![build](https://user-images.githubusercontent.com/64469896/90394186-d1ae9680-e0af-11ea-9a21-8ce04050c78b.png)
 
-* _**To lauch Docker inside Docker:- 
+* _**To lauch Docker inside Docker**_
 
 ![docker](https://user-images.githubusercontent.com/64469896/90394718-c740cc80-e0b0-11ea-8b07-8a846415a421.png)
 
 * _**To unlock jenkins**_
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/64469896/90395919-f6f0d400-e0b2-11ea-91d3-ad1108f19a25.png)
+
+![Screenshot (116)](https://user-images.githubusercontent.com/64469896/90395752-b09b7500-e0b2-11ea-9ef6-9ce1a78f6635.png)
+
+
+
+
 
 
