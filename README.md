@@ -42,6 +42,10 @@
 
 >>> `JOB-1`. **Pull the Github repo automatically when some developers push repo to Github**.
 
+* _**Firstly i created job1 in jenkins and then configured it**_
+
+
+
 
 
 
