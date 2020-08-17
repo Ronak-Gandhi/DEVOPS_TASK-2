@@ -50,6 +50,9 @@
 
 **After configuration of job1,i build it and here is console output**
 
+![Screenshot (120)](https://user-images.githubusercontent.com/64469896/90398514-34eff700-e0b7-11ea-98fd-13b1be401c1d.png)
+
+
 
 
 
