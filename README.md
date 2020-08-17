@@ -40,7 +40,7 @@
 
 ---
 
->>>JOB-1. **Pull the Github repo automatically when some developers push repo to Github**.
+>>> `JOB-1`. **Pull the Github repo automatically when some developers push repo to Github**.
 
 
 
