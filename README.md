@@ -38,6 +38,10 @@
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/64469896/90395769-babd7380-e0b2-11ea-86d7-141b3a91f179.png)
 
+---
+
+>>>JOB-1. **Pull the Github repo automatically when some developers push repo to Github**.
+
 
 
 
