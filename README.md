@@ -92,7 +92,11 @@
 
 ![InkedScreenshot (150)_LI](https://user-images.githubusercontent.com/64469896/93020663-e96c3280-f5fb-11ea-908f-57a199b61a08.jpg)
 
-**After configuration of job4,i build it and here is console output**
+
+
+![Screenshot (151)](https://user-images.githubusercontent.com/64469896/93020655-dfe2ca80-f5fb-11ea-8262-027ac5c723e6.png)
+
+
 
 
 
