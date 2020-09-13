@@ -62,7 +62,7 @@
 ![Screenshot (145)](https://user-images.githubusercontent.com/64469896/93018347-bc645380-f5ec-11ea-8f8f-c1322e22c85a.png)
 
 
-**After configuration of job1,i build it and here is console output**
+**After configuration of job2,i build it and here is console output**
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/64469896/93018350-bff7da80-f5ec-11ea-814f-6c8c6305f2cd.png)
 
@@ -79,11 +79,11 @@
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/64469896/93020001-61385e00-f5f8-11ea-98d8-b11c3c991a00.png)
 
-**After configuration of job1,i build it and here is console output**
+**After configuration of job3,i build it and here is console output**
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/64469896/93020002-639ab800-f5f8-11ea-8853-1d969befe452.png)
 
 
-
+>>> `JOB-4`. **If app is not working , then send email to developer with error messages**.
 
 
