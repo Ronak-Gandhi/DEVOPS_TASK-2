@@ -98,7 +98,7 @@
 
 ![Screenshot (151)](https://user-images.githubusercontent.com/64469896/93020655-dfe2ca80-f5fb-11ea-8262-027ac5c723e6.png)
 
-
+>>> `JOB-4`. **If container where app is running, fails due to any reson then this job should automatically start the container again**
 
 
 
