@@ -86,4 +86,20 @@
 
 >>> `JOB-4`. **If app is not working , then send email to developer with error messages**.
 
+**Firstly i created job3 in jenkins and configured it**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
