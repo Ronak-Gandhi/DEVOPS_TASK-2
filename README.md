@@ -86,10 +86,13 @@
 
 >>> `JOB-4`. **If app is not working , then send email to developer with error messages**.
 
-**Firstly i created job3 in jenkins and configured it**
+**Firstly i created job4 in jenkins and configured it**
 
+![Screenshot (149)](https://user-images.githubusercontent.com/64469896/93020646-d22d4500-f5fb-11ea-8799-00b3588c3a33.png)
 
+![InkedScreenshot (150)_LI](https://user-images.githubusercontent.com/64469896/93020663-e96c3280-f5fb-11ea-908f-57a199b61a08.jpg)
 
+**After configuration of job4,i build it and here is console output**
 
 
 
