@@ -53,6 +53,10 @@
 ![Screenshot (120)](https://user-images.githubusercontent.com/64469896/90398514-34eff700-e0b7-11ea-98fd-13b1be401c1d.png)
 
 
+>>> `JOB-2`. **By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code ( eg. If code is of PHP, then Jenkins should start the container that has PHP already installed **.
+
+**Firstly i created job2 in jenkins and configured it**
+
 
 
 
