@@ -86,7 +86,7 @@
 
 >>> `JOB-4`. **If app is not working , then send email to developer with error messages**.
 
-**Firstly i created job4 in jenkins and configured it**
+**created job4 in jenkins and configured it**
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/64469896/93020646-d22d4500-f5fb-11ea-8799-00b3588c3a33.png)
 
@@ -100,8 +100,14 @@
 
 >>> `JOB-4`. **If container where app is running, fails due to any reson then this job should automatically start the container again**
 
+**created job5 in jenkins and configured it**
+
+![Screenshot (153)](https://user-images.githubusercontent.com/64469896/93020899-72d03480-f5fd-11ea-8677-a7cef394cc18.png)
+
+![Screenshot (154)](https://user-images.githubusercontent.com/64469896/93020901-7499f800-f5fd-11ea-959b-4284eb46b45d.png)
 
 
+**Created a job chain of job1,job2,job3 and job4 using Build Pipeline plugin in Jenkins**..
 
 
 
