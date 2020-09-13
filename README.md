@@ -73,6 +73,16 @@
 
 >>> `JOB-3`. **Test your app if it is working or not**.
 
+**Firstly i created job3 in jenkins and configured it**
+
+![Screenshot (146)](https://user-images.githubusercontent.com/64469896/93020003-64334e80-f5f8-11ea-82ca-93b093cf243b.png)
+
+![Screenshot (147)](https://user-images.githubusercontent.com/64469896/93020001-61385e00-f5f8-11ea-98d8-b11c3c991a00.png)
+
+**After configuration of job1,i build it and here is console output**
+
+![Screenshot (148)](https://user-images.githubusercontent.com/64469896/93020002-639ab800-f5f8-11ea-8853-1d969befe452.png)
+
 
 
 
