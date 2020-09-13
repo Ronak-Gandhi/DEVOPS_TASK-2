@@ -92,7 +92,9 @@
 
 ![InkedScreenshot (150)_LI](https://user-images.githubusercontent.com/64469896/93020663-e96c3280-f5fb-11ea-908f-57a199b61a08.jpg)
 
+![2](https://user-images.githubusercontent.com/64469896/93020838-1e2cb980-f5fd-11ea-9713-24896a17f7c2.jpg)
 
+![1](https://user-images.githubusercontent.com/64469896/93020846-24229a80-f5fd-11ea-9280-7297c10e0344.jpg)
 
 ![Screenshot (151)](https://user-images.githubusercontent.com/64469896/93020655-dfe2ca80-f5fb-11ea-8262-027ac5c723e6.png)
 
