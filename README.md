@@ -57,10 +57,14 @@
 
 **Firstly i created job2 in jenkins and configured it**
 
+![Screenshot (144)](https://user-images.githubusercontent.com/64469896/93018341-b40c1880-f5ec-11ea-9f26-9ce4be5ca342.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/64469896/93018347-bc645380-f5ec-11ea-8f8f-c1322e22c85a.png)
 
 
+**After configuration of job1,i build it and here is console output**
 
-
+![Screenshot (128)](https://user-images.githubusercontent.com/64469896/93018350-bff7da80-f5ec-11ea-814f-6c8c6305f2cd.png)
 
 
 
